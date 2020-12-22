@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: gehualian
+name: K2P
 
 on:
   repository_dispatch:
